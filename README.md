@@ -2,6 +2,10 @@
 
 A template for creating new SBTs inheriting from the Masa SBT smart contracts
 
+## Installation
+
+`yarn install`
+
 ## Deployment
 
 ### Preparations
