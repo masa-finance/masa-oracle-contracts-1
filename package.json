@@ -36,7 +36,7 @@
     "@nomiclabs/hardhat-solhint": "^3.0.1",
     "@nomiclabs/hardhat-waffle": "^2.0.6",
     "@openzeppelin/contracts": "^5.0.0",
-    "@typechain/ethers-v5": "^11.1.1",
+    "@typechain/ethers-v5": "^11.1.2",
     "@typechain/hardhat": "^9.1.0",
     "@types/chai": "^4.3.11",
     "@types/chai-as-promised": "^7.1.6",
